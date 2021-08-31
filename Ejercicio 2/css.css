@@ -16,35 +16,32 @@ button {
   border: solid 0px;
   border-radius: 4px;
 }
-#resultado {
-  background-color: rgb(175, 6, 6);
-  margin: auto;
-  padding: 10px;
-  width: 20%;
-}
-#ingresado {
-  background-color: rgb(175, 6, 6);
-  margin: auto;
-  padding: 10px;
-  width: 20%;
-  
-}
-li {
- 
-  list-style: none;
-  text-align: center;
-  text-decoration: none;
-  color: #ffffff;
-}
 a{
   
   font-size: 30px;
   color: #ffffff;
 }
-
-div {
-  margin: 10px;
+label{
+  color: #ffffff;
+  font-size: 20px;
+}
+div{
+  margin: 20px;
+}
+select{
+  font-size: 15px;
+}
+#precios{
+  width: 50%;
+  margin: auto;
+  color: #ffffff;
+  background-color: #246092;
+}
+p{
+  padding: 10px;
+  text-align: center;
 }
 h3{
-  color: #ffffff;
+  padding: 10px;
+  text-align: center;
 }

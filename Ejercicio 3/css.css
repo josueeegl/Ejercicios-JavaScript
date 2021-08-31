@@ -1,13 +1,22 @@
 body {
   background-color: rgba(12, 6, 44, 0.8);
 }
-.numer {
-  font-size: 20px;
+a {
+  font-size: 30px;
   color: #ffffff;
 }
-.entrada {
-  margin-top: 5px;
+
+div {
+  padding: 10px;
+  margin: 15px;
+}
+label {
+  color: #ffffff;
+  font-size: 25px;
+}
+input {
   font-size: 20px;
+  width: 40%;
 }
 button {
   font-size: 20px;
@@ -16,35 +25,9 @@ button {
   border: solid 0px;
   border-radius: 4px;
 }
-#resultado {
-  background-color: rgb(175, 6, 6);
-  margin: auto;
-  padding: 10px;
-  width: 20%;
-}
-#ingresado {
-  background-color: rgb(175, 6, 6);
-  margin: auto;
-  padding: 10px;
-  width: 20%;
-  
-}
-li {
- 
-  list-style: none;
-  text-align: center;
-  text-decoration: none;
+p {
   color: #ffffff;
-}
-a{
-  
-  font-size: 30px;
-  color: #ffffff;
-}
-
-div {
   margin: 10px;
-}
-h3{
-  color: #ffffff;
+  padding: 10px;
+  font-size: 20px;
 }
